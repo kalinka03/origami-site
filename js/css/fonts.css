@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Intro-Regular';
+  src: url('../fonts/Intro-Regular/Intro-Regular.eot');
+  src: local('☺'), url('../fonts/Intro-Regular/Intro-Regular.woff') format('woff'), url('../fonts/Intro-Regular/Intro-Regular.ttf') format('truetype'), url('../fonts/Intro-Regular/Intro-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MYRIADPROREGULAR';
+  src: url('../fonts/MYRIADPROREGULAR/MYRIADPROREGULAR.eot');
+  src: local('☺'), url('../fonts/MYRIADPROREGULAR/MYRIADPROREGULAR.woff') format('woff'), url('../fonts/MYRIADPROREGULAR/MYRIADPROREGULAR.ttf') format('truetype'), url('../fonts/MYRIADPROREGULAR/MYRIADPROREGULAR.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MinionPro-Regular';
+  src: url('../fonts/MinionPro-Regular/MinionPro-Regular.eot');
+  src: local('☺'), url('../fonts/MinionPro-Regular/MinionPro-Regular.woff') format('woff'), url('../fonts/MinionPro-Regular/MinionPro-Regular.ttf') format('truetype'), url('../fonts/MinionPro-Regular/MinionPro-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open_Sans';
+  src: url('../fonts/Open_Sans/Open_Sans.eot');
+  src: local('☺'), url('../fonts/Open_Sans/Open_Sans.woff') format('woff'), url('../fonts/Open_Sans/Open_Sans.ttf') format('truetype'), url('../fonts/Open_Sans/Open_Sans.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TitilliumWeb-SemiBold';
+  src: url('../fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.eot');
+  src: local('☺'), url('../fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.woff') format('woff'), url('../fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.ttf') format('truetype'), url('../fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
