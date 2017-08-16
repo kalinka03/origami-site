@@ -233,7 +233,7 @@ nav ul li a span:hover:before {
  background-position: center;
  margin: 0 auto;
  position: relative;
- z-index: 8;
+ z-index: 1;
  margin-top: -43px;
 }
 .for-home {
